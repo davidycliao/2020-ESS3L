@@ -169,8 +169,8 @@ Available in PDF
 
 ## Maintainers
 
-**[Professor Royce Carroll](https://www.essex.ac.uk/people/carro40801/royce-carroll)** [Email](r.carroll@essex.ac.uk)  <br />
-**[David, Yen-Chieh Liao](https://yl17124.github.io/bio/)** [Email](yl17124@essex.ac.uk)  <br />
+**[Professor Royce Carroll](https://www.essex.ac.uk/people/carro40801/royce-carroll)**  <br />
+**[David, Yen-Chieh Liao](https://yl17124.github.io/bio/)** <br />
 [University of Essex](https://www.essex.ac.uk/) <br />
 [Department of Government](https://www.essex.ac.uk/departments/government) <br />
 Wivenhoe Park, Colchester CO4 3SQ<br />
