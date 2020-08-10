@@ -18,7 +18,7 @@ This course will enable students to derive latent spatial preference information
 
 **Lecture / Lab:** 14:15 – 17:45  Monday 10th August to Friday 21st August 2020
 
-## Usage
+## Packages
 
 You will need to lastest installation of [_R_](https://cran.r-project.org/mirrors.html) (preferably version 3.6 or above) and [RStudio](https://rstudio.com/products/rstudio/download/#download). You also need to install the [`asmcjr`](https://github.com/yl17124/asmcjr) package and other relevant scaling packages along with this course.
 
@@ -64,7 +64,7 @@ You should also install [JAGS](http://mcmc-jags.sourceforge.net/), which will be
 - Recommended Reading: 
 <br />[Furr and Bacharach Ch. 4](http://shc.sbmu.ac.ir/uploads/Dimensionality_and_Factor_Analysis_.pdf) <br />
 
-**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/01-Introduction/01-Introduction.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/01-Introduction/01-Introduction.pdf)
+**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/01-Introduction/01-Introduction.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/01-Introduction/01-Introduction.pdf)
 
 
 ### [**02 - Issue Scale I**](02-Issue-Scale-I) 
@@ -74,7 +74,7 @@ You should also install [JAGS](http://mcmc-jags.sourceforge.net/), which will be
 - Recommended Reading: 
 <br />[Zakharova and Warwick 2014](https://journals.sagepub.com/doi/10.1177/0010414013516928) | [Carroll and Kubo 2017](https://www.researchgate.net/publication/320986749_Explaining_citizen_perceptions_of_party_ideological_positions_The_mediating_role_of_political_contexts) <br />
 
-**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/02-Issue-Scale-I/02-Issue-Scale-I.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/02-Issue-Scale-I/02-Issue-Scale-I.pdf) 
+**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/02-Issue-Scale-I/02-Issue-Scale-I.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/02-Issue-Scale-I/02-Issue-Scale-I.pdf) 
 
 ### [**03 - Issue Scale II**](03-Issue-Scale-II) 
 
@@ -83,7 +83,7 @@ You should also install [JAGS](http://mcmc-jags.sourceforge.net/), which will be
 - Recommended Reading: 
 <br /> [Bakker et al. 2014](https://www.jstor.org/stable/10.1017/s0022381614000449?seq=1#metadata_info_tab_contents) | [Bakker, Jolly and  Polk 2020](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/analyzing-the-crossnational-comparability-of-party-positions-on-the-sociocultural-and-eu-dimensions-in-europe/F57D06C237E076831C6280B7F5709BD8)<br />
 
-**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/03-Issue-Scale-II/03-Issue-Scale-II.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/03-Issue-Scale-II/03-Issue-Scale-II.pdf) 
+**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/03-Issue-Scale-II/03-Issue-Scale-II.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/03-Issue-Scale-II/03-Issue-Scale-II.pdf) 
 
 
 ### [**04 - Issue Scale III**](04-Issue-Scale-III) 
@@ -93,14 +93,14 @@ You should also install [JAGS](http://mcmc-jags.sourceforge.net/), which will be
 - Recommended Reading: 
 <br />[Gross and Sigelman 1984](https://www.jstor.org/stable/421950?seq=1#metadata_info_tab_contents) | [Bornschier 2010](https://www.tandfonline.com/doi/abs/10.1080/01402381003654387)<br />
 
-#**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/04-Issue-Scale-III/04-Issue-Scale-III.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/04-Issue-Scale-III/04-Issue-Scale-III.pdf) 
+#**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/04-Issue-Scale-III/04-Issue-Scale-III.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/04-Issue-Scale-III/04-Issue-Scale-III.pdf) 
 
 ### [**05 - Similarities and Rating Scale Data**](05-Similarities-and-Rating-Scale-Data) 
 
 - Core Reading:
 <br />[Chapter 4 of Armstrong](https://essexuniversity.box.com/s/f7ecmlnsmxwiig029qtj2prxowfsopt8)<br />
 
-**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/05-Similarities-and-Rating-Scale-Data/05-Similarities-Data-and-Agreement-Scores.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/05-Similarities-and-Rating-Scale-Data/05-Similarities-Data-and-Agreement-Scores.pdf) 
+**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/05-Similarities-and-Rating-Scale-Data/05-Similarities-Data-and-Agreement-Scores.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/05-Similarities-and-Rating-Scale-Data/05-Similarities-Data-and-Agreement-Scores.pdf) 
 
 ### [**06 - Binary Ideal Point Estimation (W-NOMINATE)**](06-Binary-Ideal-Point-Estimation)
 
@@ -109,7 +109,7 @@ You should also install [JAGS](http://mcmc-jags.sourceforge.net/), which will be
 - Recommended Reading: 
 <br />[Hix, Nouryand and Roland 2009](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2008.0263) <br />
 
-**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/06-Binary-Ideal-Point-Estimation/06-Binary-Ideal-Point-Estimation.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/06-Binary-Ideal-Point-Estimation/06-Binary-Ideal-Point-Estimation.pdf) 
+**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/06-Binary-Ideal-Point-Estimation/06-Binary-Ideal-Point-Estimation.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/06-Binary-Ideal-Point-Estimation/06-Binary-Ideal-Point-Estimation.pdf) 
 
 ### [**07 - Non-parametric Ideal Point Estimation (OC and OOC)**](07-Non-parametric-Ideal-Point-Estimation)
 
@@ -118,7 +118,7 @@ You should also install [JAGS](http://mcmc-jags.sourceforge.net/), which will be
 - Recommended Reading: 
 <br /> [Rosenthal and Voeten 2004](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0092-5853.2004.00091.x) | [Hare, Liu ans Lupton 2018](https://www.researchgate.net/profile/Tzu_Ping_Liu/publication/324131336_What_Ordered_Optimal_Classification_reveals_about_ideological_structure_cleavages_and_polarization_in_the_American_mass_public/links/5e66eeb6299bf1744f6edc4c/What-Ordered-Optimal-Classification-reveals-about-ideological-structure-cleavages-and-polarization-in-the-American-mass-public.pdf)<br />
 
-**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/07-Non-parametric-Ideal-Point-Estimation/07-Non-parametric-Ideal-Point-Estimation.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/07-Non-parametric-Ideal-Point-Estimation/07-Non-parametric-Ideal-Point-Estimation.html) 
+**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/07-Non-parametric-Ideal-Point-Estimation/07-Non-parametric-Ideal-Point-Estimation.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/07-Non-parametric-Ideal-Point-Estimation/07-Non-parametric-Ideal-Point-Estimation.html) 
 
 
 ### [**08 - IRT and Bayesian MCMC**](08-Non-parametric-Ideal-Point-Estimation)
@@ -129,7 +129,7 @@ and Rasch Models](https://in.sagepub.com/sites/default/files/upm-binaries/18480_
 - Recommended Reading: 
 <br /> [Clinton and Jackman and Rivers 2004](https://www.cs.princeton.edu/courses/archive/fall09/cos597A/papers/ClintonJackmanRivers2004.pdf)  | [Armstrong and Lucas 2020](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/measuring-and-comparing-municipal-policy-responses-to-covid19/AF21FE09916444BEBC0C8FD73AEEA2E4/core-reader)<br />
 
-**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/08-IRT-and-Bayesian-MCMC/08-IRT-and-Bayesian-MCMC.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/08-IRT-and-Bayesian-MCMC/08-IRT-and-Bayesian-MCMC.pdf) 
+**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/08-IRT-and-Bayesian-MCMC/08-IRT-and-Bayesian-MCMC.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/08-IRT-and-Bayesian-MCMC/08-IRT-and-Bayesian-MCMC.pdf) 
 
 
 ### [**09 - Dynamic and Ordinal IRT**](09-Dynamic-and-Ordinal-IRT)
@@ -139,7 +139,7 @@ and Rasch Models](https://in.sagepub.com/sites/default/files/upm-binaries/18480_
 - Recommended Reading: 
 <br /> [Martin and Quinn 2004](https://www.cambridge.org/core/journals/political-analysis/article/dynamic-ideal-point-estimation-via-markov-chain-monte-carlo-for-the-us-supreme-court-19531999/2A57930D5D0C81216491B40CA2BA5D12) <br />
 
-**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/08-Binary-Data-III/09-Dynamic-and-Ordinal-IRT.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/08-Binary-Data-III/09-Dynamic-and-Ordinal-IRT.pdf) 
+**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/08-Binary-Data-III/09-Dynamic-and-Ordinal-IRT.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/08-Binary-Data-III/09-Dynamic-and-Ordinal-IRT.pdf) 
 
 
 
@@ -150,7 +150,7 @@ and Rasch Models](https://in.sagepub.com/sites/default/files/upm-binaries/18480_
 - Recommended Reading: 
 <br /> [Barberá 2015](https://www.cambridge.org/core/journals/political-analysis/article/birds-of-the-same-feather-tweet-together-bayesian-ideal-point-estimation-using-twitter-data/91E37205F69AEA32EF27F12563DC2A0A) | [Slapin and Proksch 2008](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.1849&rep=rep1&type=pdf)  <br />
 
-**Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/10-Scaling-Text-and-EM-IRT/10-Scaling-Text-and-EM-IRT.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/10-Scaling-Text-and-EM-IRT/10-Scaling-Text-and-EM-IRT.pdf) 
+**Slide:** [html](https://raw.githack.com/yl17124/2020-ESS3L/master/10-Scaling-Text-and-EM-IRT/10-Scaling-Text-and-EM-IRT.html) | [pdf](https://raw.githack.com/yl17124/2020-ESS3L/master/10-Scaling-Text-and-EM-IRT/10-Scaling-Text-and-EM-IRT.pdf) 
 
 <br/>
 
@@ -161,17 +161,3 @@ and Rasch Models](https://in.sagepub.com/sites/default/files/upm-binaries/18480_
 Available in PDF
 (please do not distribute PDF of book)
 
-### Suggested Book
-- [R for Data Science](https://r4ds.had.co.nz/)
-
-
-<br/>
-
-## Maintainers
-
-**[Professor Royce Carroll](https://www.essex.ac.uk/people/carro40801/royce-carroll)**  <br />
-**[David, Yen-Chieh Liao](https://yl17124.github.io/bio/)** <br />
-[University of Essex](https://www.essex.ac.uk/) <br />
-[Department of Government](https://www.essex.ac.uk/departments/government) <br />
-Wivenhoe Park, Colchester CO4 3SQ<br />
-Essex, UK<br />
