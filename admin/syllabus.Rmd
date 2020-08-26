@@ -3,6 +3,8 @@ title: "2020 ESSEX SUMMER SCHOOL"
 author: "Royce Carroll"
 date: "August 10, 2020"
 output:
+  pdf_document: default
+  html_notebook: default
   html_document:
     df_print: paged
 subtitle: "| 3L Scaling Methods for Social Science: \n| Measuring Patterns and Preferences
@@ -93,16 +95,29 @@ You should also install [JAGS](http://mcmc-jags.sourceforge.net/), which will be
 ### [**02 - Issue Scale I**](02-Issue-Scale-I) 
 
 - Core Reading: 
-<br />[CH 2 of Armstrong](https://essexuniversity.box.com/s/f7ecmlnsmxwiig029qtj2prxowfsopt8)<br /> 
+<br />[2.1 and 6.1 of Armstrong](https://essexuniversity.box.com/s/f7ecmlnsmxwiig029qtj2prxowfsopt8)<br /> 
+
+2.1 Aldrich-McKelvey Scaling
+-- 2.1.4 Estimating Bootstrapped Standard Errors for Aldrich-McKelvey Scaling
+-- 6 Bayesian Scaling Models (JAGS Intro)
+-- 6.1 Bayesian Aldrich-McKelvey Scaling
+
 - Recommended Reading: 
-<br />[Zakharova and Warwick 2014](https://journals.sagepub.com/doi/10.1177/0010414013516928) | [Carroll and Kubo 2017](https://www.researchgate.net/publication/320986749_Explaining_citizen_perceptions_of_party_ideological_positions_The_mediating_role_of_political_contexts) <br />
+<br />[Zakharova and Warwick 2014](https://journals.sagepub.com/doi/10.1177/0010414013516928) | [Carroll and Kubo 2017](https://www.sciencedirect.com/science/article/pii/S0261379417302846) | [Saiegh 2015](http://pages.ucsd.edu/~ssaiegh/ideology.pdf) <br />
 
 **Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/02-Issue-Scale-I/02-Issue-Scale-I.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/02-Issue-Scale-I/02-Issue-Scale-I.pdf) 
 
 ### [**03 - Issue Scale II**](03-Issue-Scale-II) 
 
 - Core Reading: 
-<br />[Chapter 3 of Armstrong](https://essexuniversity.box.com/s/f7ecmlnsmxwiig029qtj2prxowfsopt8)<br />
+<br />[2.2 and 2.3 of Armstrong](https://essexuniversity.box.com/s/f7ecmlnsmxwiig029qtj2prxowfsopt8)<br />
+
+2.2 Basic Space Scaling: The blackbox Function
+-- 2.3 Basic Space Scaling: The blackbox transpose Function
+-- 2.3.1 Example 1: 2000 and 2006 Comparative Study of Electoral Systems (Mexican Modules)
+-- 2.3.2 Estimating Bootstrapped Standard Errors for Black Box Transpose Scaling
+-- 2.3.3 Using the blackbox transpose Function on Datasets with Large Numbers of Respondents
+
 - Recommended Reading: 
 <br /> [Bakker et al. 2014](https://www.jstor.org/stable/10.1017/s0022381614000449?seq=1#metadata_info_tab_contents) | [Bakker, Jolly and  Polk 2020](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/analyzing-the-crossnational-comparability-of-party-positions-on-the-sociocultural-and-eu-dimensions-in-europe/F57D06C237E076831C6280B7F5709BD8)<br />
 
@@ -112,16 +127,21 @@ You should also install [JAGS](http://mcmc-jags.sourceforge.net/), which will be
 ### [**04 - Issue Scale III**](04-Issue-Scale-III) 
 
 - Core Reading: 
-<br />[CH 4 of Armstrong](https://essexuniversity.box.com/s/f7ecmlnsmxwiig029qtj2prxowfsopt8)<br />
-- Recommended Reading: 
-<br />[Gross and Sigelman 1984](https://www.jstor.org/stable/421950?seq=1#metadata_info_tab_contents) | [Bornschier 2010](https://www.tandfonline.com/doi/abs/10.1080/01402381003654387)<br />
+<br />[2.2 of Armstrong](https://essexuniversity.box.com/s/f7ecmlnsmxwiig029qtj2prxowfsopt8)<br />
+2.2 Basic Space Scaling: The blackbox Function
+-- 2.2.1 Example 1: 2000 Convention Delegate Study
+-- 2.2.2 Example 2: 2010 Swedish Parliamentary Candidate Survey
+-- 2.2.3 Estimating Bootstrapped Standard Errors for Black Box Scaling
 
+- Recommended Reading: 
 **Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/04-Issue-Scale-III/04-Issue-Scale-III.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/04-Issue-Scale-III/04-Issue-Scale-III.pdf) 
+
+<br />[Gross and Sigelman 1984](https://www.jstor.org/stable/421950?seq=1#metadata_info_tab_contents) | [Bornschier 2010](https://www.tandfonline.com/doi/abs/10.1080/01402381003654387)<br />
 
 ### [**05 - Similarities and Rating Scale Data**](05-Similarities-and-Rating-Scale-Data) 
 
 - Core Reading:
-<br />[Chapter 4 of Armstrong](https://essexuniversity.box.com/s/f7ecmlnsmxwiig029qtj2prxowfsopt8)<br />
+<br />[Chapters 3 and 4 of Armstrong](https://essexuniversity.box.com/s/f7ecmlnsmxwiig029qtj2prxowfsopt8)<br />
 
 **Slide:** [html](https://raw.githack.com/yl17124/ESS3L/master/05-Similarities-and-Rating-Scale-Data/05-Similarities-Data-and-Agreement-Scores.html) | [pdf](https://raw.githack.com/yl17124/ESS3L/master/05-Similarities-and-Rating-Scale-Data/05-Similarities-Data-and-Agreement-Scores.pdf) 
 
