@@ -1,6 +1,6 @@
 # Scaling Methods for Social Science <img src="logo/esslogo.png" width="260" align="right" /> <br /> 
 
-**3L Scaling Methods for Social Science: Measuring Patterns and Preferences in Surveys and Behavior**, Instructor: [***Prof. Royce Carroll***](https://www.essex.ac.uk/people/carro40801/royce-carroll),[2020 ESSEX SUMMER SCHOOL](https://essexsummerschool.com/summer-school-facts/courses/2020-course-list/3l-ideal-point-estimation-item-response-theory-and-scaling-methods/)
+**3L Scaling Methods for Social Science: Measuring Patterns and Preferences in Surveys and Behavior**, Instructor: [***Prof. Royce Carroll***](https://www.essex.ac.uk/people/carro40801/royce-carroll), [2020 ESSEX SUMMER SCHOOL](https://essexsummerschool.com/summer-school-facts/courses/2020-course-list/3l-ideal-point-estimation-item-response-theory-and-scaling-methods/)
 
 <div style="text-align: justify">
 
